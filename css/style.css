@@ -677,7 +677,7 @@ img.hover-shadow {
   width: 100%;
   text-align: left;
   border: none;
-  outline: none;
+  outline: white;
   transition: 0.4s;
 	font-size: 1rem;
 	line-height: 1rem;
